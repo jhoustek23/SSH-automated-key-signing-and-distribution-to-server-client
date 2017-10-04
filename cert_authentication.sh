@@ -51,7 +51,6 @@ echo    "#######################################################################
 echo           "Add this to client (/home/$user/.ssh/known_hosts):"
 echo    "#################################################################################"
 echo
-echo            "@cert-authority $name ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDdB9P8rN+14+AG7VD6QnwJNNL9ZDQHpbd5/pLkG92JB0JC+vyiPeoXfm+NQUTXK5VIKKePVKDFY2tjP4e2u5uXvhfO7pjrciUVZgnyNZUA6Mx6+H9tSIT7FNQuMKe794BgYnjk0XPfM0+/XoWIAQ17ZRgrWlCEMN
-H+/8Xjys3Sit7yQ/bg71DO1xv53hLR2F5a2OpbdrbJ1VjK4oHqb0+aVoZglCZ8lju6EMedeUflnb0mY2QUf6duAM4/bCyA0BCyy9B4l91l0rwkJvRNWLSZloTGUWlUz3F3sPOzHu1k64qSyqEawxXhoxJgvwPdgq0YV3C8lo9P4VXn31xptxF3 root@auth"
+echo            "@cert-authority $name YOUR- cat ~/server_ca.pub -HERE"
 echo
 echo    "#################################################################################"
