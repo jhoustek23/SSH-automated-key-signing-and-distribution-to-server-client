@@ -1,4 +1,4 @@
-# SSH - automated CA ssh key distribution for server/client
+# SSH - automated CA sign ssh key and distribution for server/client
 This script is used for semi-automated client/server SSH authentication using local certification authority.
 
 Requirements:
